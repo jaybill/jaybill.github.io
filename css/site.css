@@ -67,6 +67,11 @@ strong {
 .footer .ab {
   margin-bottom: 20px;
 }
+.footer #about .q {
+  color: #859900;
+  font-weight: bold;
+  margin-top: 30px;
+}
 .footer #copy {
   color: #93a1a1;
 }
@@ -74,6 +79,6 @@ strong {
 .footer a:visited {
   text-decoration: none;
   font-weight: bold;
-  color: #b58900;
+  color: #2aa198;
 }
 /*# sourceMappingURL=/./css/site.css.map */
