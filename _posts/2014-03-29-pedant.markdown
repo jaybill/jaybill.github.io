@@ -1,0 +1,9 @@
+---
+layout: post
+title: pedant
+date: 2014-03-29 14:50:01 PDT
+hidetitle: 'true'
+published: false
+---
+
+
