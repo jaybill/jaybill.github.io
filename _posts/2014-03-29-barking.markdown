@@ -1,0 +1,9 @@
+---
+layout: post
+title: barking
+date: 2014-03-29 11:51:07 PDT
+hidetitle: true
+published: false
+---
+> "She's not barking up the wrong tree. She's barking up a giraffe."
+
