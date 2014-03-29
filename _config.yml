@@ -1,0 +1,5 @@
+name: Short Ride in a Fast Machine
+markdown: redcarpet
+pygments: true
+timezone: America/Los_Angeles
+paginate: 25

@@ -1,0 +1,29 @@
+{
+  "name": "shortrideinafastmachine-theme",
+  "private": true,
+  "author": "Jaybill McCarthy",
+  "main": "dist/bootstrap.css",
+  "themestrap": {
+    "name": "Short Ride In A Fast Machine Theme",
+    "repo": "https://bitbucket.org/jaybill/shortrideinafastmachine-theme"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.1.1"
+  },
+  "_release": "74699b7cf3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "74699b7cf33960673e4ad44eb3a323fe6d36e7f9"
+  },
+  "_source": "git@bitbucket.org:jaybill/shortrideinafastmachine-theme.git",
+  "_target": "*",
+  "_originalSource": "git@bitbucket.org:jaybill/shortrideinafastmachine-theme.git"
+}
