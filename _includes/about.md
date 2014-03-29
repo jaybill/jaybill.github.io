@@ -1,0 +1,3 @@
+"[Jaybill](http://jaybill.com "just this guy") is just this guy, you know?"
+
+This isn't a blog in any traditional sense. It's a collection of stuff I wrote, most of it short and weird. Sometimes it's microbloggy sort of stuff, sometimes it's short fiction. It's a mixed bag, really. Maybe you'll dig it. I don't know. I can't keep up with you people anymore.

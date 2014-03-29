@@ -35,14 +35,18 @@
 
     <div class="container">
         <div class="footer">
-            <div id="about">
-                <p>"<a href="http://jaybill.com">Jaybill</a> is just this guy, you know?"</p>
-                <p>This isn't a blog in any traditional sense. It's a collection of stuff I wrote, most of it short and weird. Sometimes it's microbloggy sort of stuff, sometimes it's short fiction. It's a mixed bag, really. Maybe you'll dig it. I don't know. I can't keep up with you people anymore.</p>
-
-                <p id="copy">&copy; 2014 J. William McCarthy, All rights reserved. Please don't steal my s#%t. Thanks.</p>
+            <div class="ab">[ <a href="#" class="-ab" data-toggle="collapse" data-target="#about">About</a> ]</div>
+            <div id="about" class="collapse">
+              {% markdown about.md %}
             </div>
+                <p id="copy">&copy; 2014 J. William McCarthy, All rights reserved. Please don't steal my s#%t. Thanks.</p>
         </div>
     </div>
+<script src="/vendor/jquery/dist/jquery.min.js"></script>
+<script src="/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/js/analytics.js"></script>
+<script src="/js/home.js"></script>
+
 </body>
 
 </html>

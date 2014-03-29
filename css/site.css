@@ -62,12 +62,10 @@ strong {
 }
 .footer {
   margin-top: 20px;
-  border: 0px none;
-  border-top: 1px dashed #cb4b16;
   color: #cb4b16;
 }
-.footer #about {
-  margin-top: 20px;
+.footer .ab {
+  margin-bottom: 20px;
 }
 .footer #copy {
   color: #93a1a1;
