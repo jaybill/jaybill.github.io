@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'bitstream';
+  src: url('../fonts/VeraMono-webfont.eot');
+  src: url('../fonts/VeraMono-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/VeraMono-webfont.woff') format('woff'), url('../fonts/VeraMono-webfont.ttf') format('truetype'), url('../fonts/VeraMono-webfont.svg#bitstream_vera_sans_monoroman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*@font-size-large:         ceil((@font-size-base * 1.25)); // ~18px
+@font-size-small:         ceil((@font-size-base * 0.85)); // ~12px
+
+@font-size-h1:            floor((@font-size-base * 2.6)); // ~36px
+@font-size-h2:            floor((@font-size-base * 2.15)); // ~30px
+@font-size-h3:            ceil((@font-size-base * 1.7)); // ~24px
+@font-size-h4:            ceil((@font-size-base * 1.25)); // ~18px
+@font-size-h5:            @font-size-base;
+@font-size-h6:            ceil((@font-size-base * 0.85)); // ~12px
+*/
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+.masthead h1 a {
+  color: #859900;
+  font-weight: bold;
+}
+.masthead .nav a {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+hr {
+  border: 0px none;
+  border-top: 1px dashed #93a1a1;
+}
+.post .content {
+  color: #93a1a1;
+}
+.post h2 {
+  color: #dc322f;
+  font-weight: bold;
+}
+.post .meta {
+  color: #586e75;
+  margin-bottom: 20px;
+}
+.post .meta a,
+.post .meta a:visited,
+.post .meta a:hover {
+  color: #cb4b16;
+  text-decoration: none;
+}
+.post blockquote {
+  color: yellow;
+  border: 0px none;
+  border-left: 1px dashed #b58900;
+}
+strong {
+  font-weight: bold;
+}
+.footer {
+  margin-top: 20px;
+  border: 0px none;
+  border-top: 1px dashed #cb4b16;
+  color: #cb4b16;
+}
+.footer #about {
+  margin-top: 20px;
+}
+.footer #copy {
+  color: #93a1a1;
+}
+.footer a,
+.footer a:visited {
+  text-decoration: none;
+  font-weight: bold;
+  color: #b58900;
+}
+/*# sourceMappingURL=/./css/site.css.map */

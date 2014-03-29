@@ -1,0 +1,21 @@
+{
+  "name": "shortrideinafastmachine-theme",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Jaybill McCarthy",
+  "main": "dist/bootstrap.css",
+  "themestrap": {
+    "name": "Short Ride In A Fast Machine Theme",
+    "repo": "https://bitbucket.org/jaybill/shortrideinafastmachine-theme"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap":"3.1.1"
+  }
+}

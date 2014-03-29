@@ -1,0 +1,84 @@
+@import "../vendor/shortrideinafastmachine-theme/less/variables.less";
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+.masthead{
+    h1{
+       a{
+           color: @green;
+           font-weight: bold;
+        }
+    }
+    .nav{
+        
+        a{
+            display: inline-block;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            margin-left: 40px;
+
+        }
+    }
+}
+
+hr{
+    border: 0px none;
+    border-top: 1px dashed @base1;
+}
+
+.post{
+    .content{
+       color: @base1;
+    }
+    h2{
+        
+          color: @red;
+          font-weight: bold;
+        
+    }
+
+    .meta{
+        color: @base01;
+        margin-bottom: 20px;
+        a,a:visited,a:hover{
+            color: @orange;
+            text-decoration: none;
+        }
+    }
+    blockquote{
+        color: yellow;
+        border: 0px none;
+        border-left: 1px dashed @yellow;
+    }
+}
+
+strong{
+    font-weight: bold;
+}
+
+.footer{
+    margin-top: 20px;
+    border: 0px none;
+    border-top: 1px dashed @orange;
+    color: @orange;
+
+    #about{
+        margin-top: 20px;
+    }
+
+    #copy{
+        color: @base1;
+    }
+
+    a,a:visited{
+        text-decoration: none;
+        font-weight: bold;
+        color: @yellow;
+    }
+
+}
