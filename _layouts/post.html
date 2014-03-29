@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-    <h2>{{ page.title }}</h2>
+    {% if page.hidetitle != 'true' %}<h2>{{ page.title }}</h2>{% endif %}
     <div class="content">
         {{ content }}
     </div>
