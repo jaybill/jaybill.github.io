@@ -1,6 +1,5 @@
 name: Short Ride in a Fast Machine
 gems: [jekyll-paginate]
 markdown: kramdown
-highlights: true
 timezone: America/Los_Angeles
 paginate: 25
