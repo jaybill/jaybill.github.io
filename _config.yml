@@ -1,5 +1,6 @@
 name: Short Ride in a Fast Machine
 markdown: redcarpet
-pygments: true
+gems: [jekyll-paginate]
+highligter: true
 timezone: America/Los_Angeles
 paginate: 25
